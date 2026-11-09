@@ -1,1 +1,2 @@
-# first-project
+# git-project
+first project in learning
